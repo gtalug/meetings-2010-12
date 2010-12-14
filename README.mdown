@@ -1,0 +1,10 @@
+Dynamic Languages Smack Down
+============================
+
+* `erlang/` - Andrey Paramonov
+* `lisp/` - Vish Singh
+* `javascript/` - Scott Elcomb
+* `perl/` - Alan Rocker
+* `python/` - Myles Braithwaite
+* `ruby/` - Fabio FZero
+* `smalltalk/` - Yanni Chiu
